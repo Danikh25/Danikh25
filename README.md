@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me 
+Currently in my 4th year in computer engineering. 
 
-<!--
-**Danikh25/Danikh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+(![hacker-hacker-man](https://user-images.githubusercontent.com/91975571/153125948-15a4da86-747d-46d1-a236-a83abe3a3bc9.gif)
+
+
+
+
+
+
