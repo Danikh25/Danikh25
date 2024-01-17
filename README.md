@@ -1,6 +1,5 @@
 ## About me 
-Currently in my 5th year in computer engineering. 
-
+Computer Engineering Graduate (2023)
 
 
 
